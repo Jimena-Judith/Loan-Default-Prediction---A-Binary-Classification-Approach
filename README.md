@@ -1,4 +1,4 @@
-Full Project: https://jimena-judith.github.io/Loan-Default-Prediction---A-Binary-Classification-Approach/
+**Full Project:** https://jimena-judith.github.io/Loan-Default-Prediction---A-Binary-Classification-Approach/
 
 # Loan-Default-Prediction: A Binary Classification Approach
 
